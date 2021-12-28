@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Wed Dec 16 01:21:43 2020
+# Process ID: 18564
+# Current directory: C:/Users/CSE.Amr213.CSE-P07-2165-12.001/Desktop/iman-rawan
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19188 C:\Users\CSE.Amr213.CSE-P07-2165-12.001\Desktop\iman-rawan\iman-rawan.xpr
+# Log file: C:/Users/CSE.Amr213.CSE-P07-2165-12.001/Desktop/iman-rawan/vivado.log
+# Journal file: C:/Users/CSE.Amr213.CSE-P07-2165-12.001/Desktop/iman-rawan\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/CSE.Amr213.CSE-P07-2165-12.001/Desktop/iman-rawan/iman-rawan.xpr

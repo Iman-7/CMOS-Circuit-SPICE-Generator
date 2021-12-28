@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/CSE.Amr213.CSE-P07-2165-12.001/Desktop/iman-rawan/iman-rawan.srcs/sources_1/new/rca8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FA
+INFO: [VRFC 10-311] analyzing module rca8
+INFO: [VRFC 10-311] analyzing module rca16
+INFO: [VRFC 10-311] analyzing module mux2x1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/CSE.Amr213.CSE-P07-2165-12.001/Desktop/iman-rawan/iman-rawan.srcs/sources_1/new/division.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module division
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/CSE.Amr213.CSE-P07-2165-12.001/Desktop/iman-rawan/iman-rawan.srcs/sim_1/new/tb_division.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_division
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/CSE.Amr213.CSE-P07-2165-12.001/Desktop/iman-rawan/iman-rawan.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

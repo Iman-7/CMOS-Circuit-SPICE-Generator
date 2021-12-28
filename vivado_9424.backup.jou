@@ -1,0 +1,45 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Wed Dec 16 16:03:51 2020
+# Process ID: 9424
+# Current directory: C:/Users/CSE.Amr213.CSE-P07-2165-12.001/Desktop/iman-rawan
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13452 C:\Users\CSE.Amr213.CSE-P07-2165-12.001\Desktop\iman-rawan\iman-rawan.xpr
+# Log file: C:/Users/CSE.Amr213.CSE-P07-2165-12.001/Desktop/iman-rawan/vivado.log
+# Journal file: C:/Users/CSE.Amr213.CSE-P07-2165-12.001/Desktop/iman-rawan\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/CSE.Amr213.CSE-P07-2165-12.001/Desktop/iman-rawan/iman-rawan.xpr
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open C:/Users/CSE.Amr213.CSE-P07-2165-12.001/Desktop/iman-rawan/iman-rawan.srcs/sim_1/new/tb_division.v w ]
+add_files -fileset sim_1 C:/Users/CSE.Amr213.CSE-P07-2165-12.001/Desktop/iman-rawan/iman-rawan.srcs/sim_1/new/tb_division.v
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top tb_division [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top division [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+launch_simulation
+source tb_division.tcl
+close_sim
+launch_simulation
+source tb_division.tcl
+relaunch_sim
+relaunch_sim
+close_sim
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+source tb_division.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+close_sim
