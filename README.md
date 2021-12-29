@@ -24,6 +24,7 @@ circuit.
 - The Output will be displayed in a form of SPICE netlist describing the connections of the circuit in the following format:
 
 | Mname  | drain | gate | source | body | type |
+| -----  | ----- | ----- | ----- | ----- | ----- |
 
 **Examples:**
 
