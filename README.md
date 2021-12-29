@@ -17,7 +17,7 @@ circuit.
 
 ### User Guide
 
-##### How to use the program?
+#### How to use the program?
 - After you run the program, you will be asked to enter the boolean expression that you want to implement using CMOS technology.
 - Write the expression while putting in mind the input specifications guidelines.
 - Press Enter.
@@ -32,20 +32,20 @@ Examples:
 
 Note: the ground is always referred to as 0 in the output.
 
-##### Input Specifications
+#### Input Specifications:
+
 An error message will appear if the user violated any of the following:
 
 - It’s not allowed to enter any spaces in the input characters.
 - The symbol of the output shouldn’t be used as one of the input symbols.
-Example: y=y&x|z is an invalid input.
+*Example:* y=y&x|z is an invalid input.
 - Consistency is required throughout the entered expression!
-Example: You cannot use ‘A’ and ‘a’ inside the same expression.
+*Example:* You cannot use ‘A’ and ‘a’ inside the same expression.
 - The input must contain an ‘=’ sign; and at most one sign for each entered expression.
 - The input must contain at least one logical operator (&, |, ‘ ) in order to be considered as a valid expression.
 - While using parentheses, make sure each left parenthesis _i.e. ‘(’_ has a right parenthesis _i.e. ‘)’_ to have a valid expression.
-Example: e=(a’&b|(c) is an invalid input.
+*Example:* e=(a’&b|(c) is an invalid input.
 - If you choose to use parentheses, avoid using the letters from u to z, either in capital or small case, in your expression.
-- Variables should be made of single characters.
-Example: y=aa&bb is an invalid input.
+- Variables should be made of single characters. *Example:* y=aa&bb is an invalid input.
 
 
